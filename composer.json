@@ -15,6 +15,7 @@
             "url": "git@github.com:djvibegga/tiktokclient.git"
         }
     ],
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Eugeniy Marilev",
@@ -26,5 +27,6 @@
             "Tiktok\\": "src"
         }
     },
-    "require": {}
+    "require": {},
+    "require-dev": {}
 }
