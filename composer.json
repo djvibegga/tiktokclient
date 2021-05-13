@@ -7,6 +7,7 @@
         "extension",
         "tiktok"
     ],
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Eugeniy Marilev",
