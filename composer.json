@@ -1,0 +1,22 @@
+{
+    "name": "jviba/tiktokapiclient",
+    "description": "a client library to communicate with tiktokapi server",
+    "type": "library",
+    "keywords": [
+        "jviba",
+        "extension",
+        "tiktok"
+    ],
+    "authors": [
+        {
+            "name": "Eugeniy Marilev",
+            "email": "eugeniymarilev1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tiktok\\": "src"
+        }
+    },
+    "require": {}
+}
