@@ -8,6 +8,13 @@
         "tiktok"
     ],
     "license": "BSD-3-Clause",
+    "version": "1.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:djvibegga/tiktokclient.git"
+        }
+    ],
     "authors": [
         {
             "name": "Eugeniy Marilev",
